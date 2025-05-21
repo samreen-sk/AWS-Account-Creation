@@ -6,21 +6,32 @@
 
 ## ALGORITHM
  ### Steps 1:
+ Create an AWS Account
  ### Steps 2:
+ Log In as Root User
  ### Steps 3:
+ Open IAM Management Console
  ### Steps 4:
+ Add a New IAM User
  ### Steps 5:
+ Configure IAM User Login
+ ### Steps 6:
+ Set Permissions for IAM User
+ ### Steps 7:
+ Review and Create IAM User
 ## COMMANDS
 Include the commands used in the Experiment.
 
 ## OUTPUT
-### REG NUMBER:
-### NAME:
- 
- Include your Screenshots Here.
+### REG NUMBER : 212223110047
+### NAME : SHAIK SAMREEN
+![444582666-87c0b1bc-0954-4179-b86d-383a24a7682c](https://github.com/user-attachments/assets/ccf5922d-2caf-4c75-9daa-8d9a828f3249)
+![444582726-930afb20-7680-4d06-ad77-192ccf55b973](https://github.com/user-attachments/assets/e449fdf9-13ee-4e7b-bbc1-35336d57bd73)
+
+
 ## RESULT
  
-
+The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account.
   
 
 
